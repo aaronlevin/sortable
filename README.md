@@ -25,7 +25,7 @@ This challenged seemed like a great entry-point to getting my feet wet. In the p
 
 I tried to make sure the only dependency was Python 2.7. So, I didn't use any external libraries. Basically: make sure you have Python 2.7 and you should be good to go. 
 
-- To run the code: `git clone` and then `python main.py`. The program will spit out the results to `results.txt`. 
+- To run the code: `git clone https://github.com/weirdcanada/weirdcanada.git` and then `python main.py`. The program will spit out the results to `results.txt`. 
 - If you feel like it, there are tests: `python tests.py` 
 
 Other notes:
