@@ -1,0 +1,3 @@
+{"title":"title1 weird-canada rocks 14.4GB","manufacturer":"manu1","currency":"CAD","price":"35.99"}
+{"title":"title2 weird-canada soft adapter","manufacturer":"manu2","currency":"CAD","price":"199.96"}
+{"title":"title3 whatever wide-angle garbage","manufacturer":"manu2 Canada","currency":"CAD","price":"209.00"}
